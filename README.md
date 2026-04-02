@@ -7,11 +7,11 @@
 <div align="center">
 
   <a href="https://vasyhack.ru/topic/31676-elden-ring-player-inventory-editor-treyner-v10-standalone-2026-22-funktsii/#comment-53183" target="_blank">
-    <img src="https://img.shields.io/badge/📌_MAIN_TOPIC_-_VASYHACK.RU-00ffcc?style=for-the-badge&logo=discord&logoColor=black&labelColor=1a1a1a" alt="Vasyhack">
+    <img src="https://img.shields.io/badge/-_VASYHACK.RU-00ffcc?style=for-the-badge&logo=discord&logoColor=black&labelColor=1a1a1a" alt="Vasyhack">
   </a>
 
   <a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_INFO_&_MIRROR_-_VGTIMES.RU-ff00aa?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a1a" alt="VGTimes">
+    <img src="https://img.shields.io/badge/-_VGTIMES.RU-ff00aa?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a1a" alt="VGTimes">
   </a>
 
   <br><br>
