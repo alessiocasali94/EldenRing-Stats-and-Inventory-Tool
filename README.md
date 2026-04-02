@@ -1,31 +1,28 @@
-# ER Player & Inventory Editor
+# EldenRing-Stats-and-Inventory-Tool
 
-![ER Player & Inventory Editor Banner](https://via.placeholder.com/1200x400/0f0f0f/00ffaa?text=ER+PLAYER+%26+INVENTORY+EDITOR+•+2026)  
-*(Замени на свой реальный баннер после генерации)*
+
 
 ### 📥 **Official Resources & Download**
 
 <div align="center">
 
-<a href="https://vasyhack.ru/topic/31676-elden-ring-player-inventory-editor-treyner-v10-standalone-2026-22-funktsii/#comment-53183" target="_blank">
-  <img src="https://via.placeholder.com/380x85/1a1a1a/00ffcc?text=📌+MAIN+TOPIC+—+VASYHACK.RU" alt="Vasyhack" style="border-radius:12px; margin:8px;">
-</a>
+  <a href="https://vasyhack.ru/topic/31676-elden-ring-player-inventory-editor-treyner-v10-standalone-2026-22-funktsii/#comment-53183" target="_blank">
+    <img src="https://img.shields.io/badge/📌_MAIN_TOPIC_-_VASYHACK.RU-00ffcc?style=for-the-badge&logo=discord&logoColor=black&labelColor=1a1a1a" alt="Vasyhack">
+  </a>
 
-<a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
-  <img src="https://via.placeholder.com/380x85/1a1a1a/ff00aa?text=🌐+INFO+&+MIRROR+—+VGTIMES.RU" alt="VGTimes" style="border-radius:12px; margin:8px;">
-</a>
+  <a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_INFO_&_MIRROR_-_VGTIMES.RU-ff00aa?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a1a" alt="VGTimes">
+  </a>
 
-<br>
+  <br><br>
 
-<a href="https://github.com/YOUR_USERNAME/ER-Player-and-Inventory-Editor/releases/latest" target="_blank">
-  <img src="https://via.placeholder.com/420x100/1a1a1a/00ff9d?text=⬇️+DOWNLOAD+LATEST+VERSION" 
-       alt="Download Latest Version" 
-       style="border-radius:16px; box-shadow: 0 0 20px #00ff9d; margin:15px 0;">
-</a>
+  <a href="https://github.com/YOUR_USERNAME/ER-Player-and-Inventory-Editor/releases/latest" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_LATEST_VERSION-00ff9d?style=for-the-badge&logo=download&logoColor=black&labelColor=111111&color=00ff9d" alt="Download Latest Version" height="65">
+  </a>
 
 </div>
 
-**Powerful standalone offline editor for Elden Ring (2026)** — edit character stats, inventory, runes and progression with a clean and modern overlay menu.
+**Powerful standalone offline editor for Elden Ring (2026)** — edit your character stats, inventory, runes and more with a clean overlay menu.
 
 ---
 
