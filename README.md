@@ -127,3 +127,40 @@ If the tool helped you — please star the repository! ❤️
 ---
 
 ### 📌 SEO Tags
+elden ring
+elden ring editor
+elden ring player editor
+elden ring inventory editor
+er player editor
+elden ring offline editor
+elden ring save editor
+elden ring stats editor
+elden ring runes
+elden ring character editor
+elden ring trainer
+elden ring offline tool
+elden ring one hit kill
+elden ring infinite hp
+elden ring infinite stamina
+elden ring god mode
+elden ring damage multiplier
+elden ring defense multiplier
+elden ring infinite poise
+elden ring item discovery
+elden ring runes multiplier
+elden ring no fall damage
+elden ring super run speed
+elden ring super jump
+elden ring zero equip load
+elden ring easy craft
+elden ring unlimited arrows
+elden ring infinite spirit summons
+elden ring game speed
+elden ring freeze enemies
+elden ring great rune
+fromsoftware
+soulslike editor
+tarnished editor
+elden ring 2026
+er player and inventory editor
+elden ring standalone
