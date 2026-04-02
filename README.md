@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
-    <img src="https://img.shields.io/badge/-_VGTIMES.RU-ff00aa?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1a1a" alt="VGTimes">
+    <img src="https://img.shields.io/badge/-_VGTIMES.RU-ff00aa?style=for-the-badge&logo=&logoColor=white&labelColor=1a1a1a" alt="VGTimes">
   </a>
 
   <br><br>
