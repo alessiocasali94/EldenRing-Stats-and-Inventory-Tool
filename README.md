@@ -24,6 +24,10 @@
 
 **Powerful standalone offline editor for Elden Ring (2026)** — edit your character stats, inventory, runes and more with a clean overlay menu.
 
+<img width="441" height="701" alt="image" src="https://github.com/user-attachments/assets/1dfd97e9-9c0e-4e60-929d-706c9be6094f" />
+<img width="441" height="702" alt="image" src="https://github.com/user-attachments/assets/322a4dbc-d11f-4b96-9228-3516d07ca62e" />
+
+
 ---
 
 ### ✨ Features
