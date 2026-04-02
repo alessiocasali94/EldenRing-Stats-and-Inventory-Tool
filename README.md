@@ -1,19 +1,36 @@
 # ER Player & Inventory Editor
 
-![ER Player & Inventory Editor Banner](https://via.placeholder.com/1200x400/0a0a0a/00ffcc?text=ER+PLAYER+%26+INVENTORY+EDITOR)  
-*(Замени эту ссылку на реальное изображение баннера после генерации)*
+![ER Player & Inventory Editor Banner](https://via.placeholder.com/1200x400/0f0f0f/00ffaa?text=ER+PLAYER+%26+INVENTORY+EDITOR+•+2026)  
+*(Замени на свой реальный баннер после генерации)*
 
-### 📥 **Official Resources**
+### 📥 **Official Resources & Download**
 
-- **Main Discussion & Updates**: [vasyhack.ru - Elden Ring Player & Inventory Editor v1.0](https://vasyhack.ru/topic/31676-elden-ring-player-inventory-editor-treyner-v10-standalone-2026-22-funktsii/#comment-53183)
-- **Additional Info & Download Mirror**: [vgtimes.ru - Elden Ring Player and Inventory Editor](https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html)
+<div align="center">
 
-**Powerful standalone offline tool for Elden Ring (2026)** — edit character stats, inventory, runes and more with a clean overlay menu.
+<a href="https://vasyhack.ru/topic/31676-elden-ring-player-inventory-editor-treyner-v10-standalone-2026-22-funktsii/#comment-53183" target="_blank">
+  <img src="https://via.placeholder.com/380x85/1a1a1a/00ffcc?text=📌+MAIN+TOPIC+—+VASYHACK.RU" alt="Vasyhack" style="border-radius:12px; margin:8px;">
+</a>
+
+<a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
+  <img src="https://via.placeholder.com/380x85/1a1a1a/ff00aa?text=🌐+INFO+&+MIRROR+—+VGTIMES.RU" alt="VGTimes" style="border-radius:12px; margin:8px;">
+</a>
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME/ER-Player-and-Inventory-Editor/releases/latest" target="_blank">
+  <img src="https://via.placeholder.com/420x100/1a1a1a/00ff9d?text=⬇️+DOWNLOAD+LATEST+VERSION" 
+       alt="Download Latest Version" 
+       style="border-radius:16px; box-shadow: 0 0 20px #00ff9d; margin:15px 0;">
+</a>
+
+</div>
+
+**Powerful standalone offline editor for Elden Ring (2026)** — edit character stats, inventory, runes and progression with a clean and modern overlay menu.
 
 ---
 
 ### ✨ Features
-- Modern ImGui overlay (press **INSERT** to toggle)
+- Modern ImGui overlay (press `INSERT` to toggle)
 - Works **only in offline mode**
 - Lightweight and fast
 - 22+ useful functions for single-player experience
@@ -77,11 +94,11 @@
 
 ### 🚀 How to Use
 
-1. Download the latest release (`.zip`)
-2. Extract the archive
-3. Run `ER-Player-Editor.exe`
-4. Launch **Elden Ring in offline mode**
-5. Press **INSERT** to open the menu
+1. Click the **Download** button above  
+2. Extract the archive  
+3. Run `ER-Player-Editor.exe`  
+4. Launch **Elden Ring in offline mode**  
+5. Press **INSERT** to open the menu  
 
 **Hotkeys:**  
 `INSERT` — Show/Hide menu  
@@ -91,24 +108,24 @@
 
 ### ⚠️ Important Disclaimer
 
-This tool is for **offline single-player use only**.  
-Do not use in online mode (PvP, co-op, invasions) — risk of ban.  
-Always backup your save files. The author is not responsible for any issues with your account or saves.
+This tool is intended **for offline single-player use only**.  
+Do **not** use it in online mode (PvP, co-op, invasions) — risk of ban.  
+Always backup your save files before using.
 
 ---
 
 ### 🛠️ Technical Information
 
-- Memory-based external tool  
+- External memory editing tool  
 - Built with ImGui overlay  
 - Standalone (no injector required)  
-- Updated for current Elden Ring version (2026)
+- Updated for 2026 version
 
 ---
 
 ### ⭐ Support the Project
 
-If this tool helped you — please star the repository! ❤️
+If the tool helped you — please star the repository! ❤️
 
 ---
 
